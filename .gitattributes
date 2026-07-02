@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.json linguist-documentation=true
+*.txt linguist-documentation=true
+*.md linguist-documentation=true
+*.kt linguist-detectable=true
+*.java linguist-detectable=true
