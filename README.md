@@ -38,8 +38,3 @@
 
 ---
 *Проект находится в стадии активной разработки. Будем рады любым предложениям по улучшению!*
-
-
-<blockquote style="background: #e6f3ff; padding: 10px; border-left: 5px solid #007acc;">
-  <strong>💡 Совет:</strong> Для запуска используйте команду ~/upload.sh
-</blockquote>
