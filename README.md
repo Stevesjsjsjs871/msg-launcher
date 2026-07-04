@@ -38,16 +38,3 @@
 
 ---
 *Проект находится в стадии активной разработки. Будем рады любым предложениям по улучшению!*
-
-
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="URL_ФОТО_1" width="200" style="border-radius: 10px; transition: transform 0.3s;">
-  <img src="URL_ФОТО_2" width="200" style="border-radius: 10px; transition: transform 0.3s;">
-  <img src="URL_ФОТО_3" width="200" style="border-radius: 10px; transition: transform 0.3s;">
-</div>
-
-<style>
-  img:hover { transform: scale(1.05); } /* Эффект увеличения при наведении */
-</style>
