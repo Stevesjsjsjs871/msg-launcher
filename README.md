@@ -28,3 +28,7 @@
 
 ## 🛠 Tech Stack / Технологии:
 `Kotlin` • `Java` • `Android SDK` • `Firebase` • `Jetpack Components`
+
+![Version](https://img.shields.io/badge/release-v1.0.0-blue)
+![License](https://img.shields.io/badge/license-Apache--2.0-green)
+![Android](https://img.shields.io/badge/Android-9.0+-green)
