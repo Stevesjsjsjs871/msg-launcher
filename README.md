@@ -38,3 +38,12 @@
 
 ---
 *Проект находится в стадии активной разработки. Будем рады любым предложениям по улучшению!*
+
+
+
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+    🚀 msg-launcher
+  </span>
+</h1>
+<p align="center">Автоматическая загрузка файлов в GitHub</p>
