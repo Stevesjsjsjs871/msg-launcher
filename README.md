@@ -14,8 +14,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="img/main_screen.png" width="200" alt="Главный экран"></td>
-      <td><img src="img/marketplace.png" width="200" alt="Маркетплейс"></td>
+      <td><img src="img/main.png" width="200" alt="Главный экран"></td>
+      <td><img src="img/shop.png" width="200" alt="Маркетплейс"></td>
     </tr>
     <tr>
       <td align="center"><b>Главный экран</b></td>
