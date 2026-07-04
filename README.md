@@ -1,12 +1,15 @@
-# MSG Launcher
+<div align="center">
+  <img src="img/icon.png" alt="MSG Launcher Logo" width="120" height="120">
+  <h1>MSG Launcher</h1>
+</div>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)]()
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat)]()
 [![Platform](https://img.shields.io/badge/platform-Android_9.0+-orange?style=flat)]()
 
-**MSG Launcher** is a specialized launcher for Minecraft Bedrock Edition on Android, engineered with Kotlin to provide enhanced performance and a streamlined user experience.
-
 ---
+
+**MSG Launcher** is a specialized launcher for Minecraft Bedrock Edition on Android, engineered with Kotlin to provide enhanced performance and a streamlined user experience.
 
 ## 🛠 Features
 
@@ -15,15 +18,11 @@
 *   **Developer Tools:** Built-in Logcat overlay for real-time debugging and monitoring.
 *   **Optimized Architecture:** Focused on reduced memory consumption and accelerated boot times.
 
----
-
 ## 📸 Interface Preview
 
 | Dashboard | Marketplace |
 | :---: | :---: |
 | ![Dashboard](img/main.png) | ![Marketplace](img/shop.png) |
-
----
 
 ## 📥 Deployment
 
@@ -38,12 +37,8 @@
 
 ---
 
-## 🤝 Contribution
-Contributions to the project are welcome. Please ensure that all pull requests follow the established coding style and include sufficient documentation.
-
----
-
 *This project is currently under active development. For inquiries or bug reports, please utilize the Issues tracker.*
+
 * **Built-in Marketplace:** Easily browse, download, and install add-ons.
 * **Logcat Overlay:** Built-in debugging tools for developers and power users.
 * **Optimized Performance:** Minimal memory footprint and fast startup times.
