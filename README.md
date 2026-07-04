@@ -1,40 +1,70 @@
-# 🚀 MSG Launcher
+<h1 align="center">
+  <br>
+  <img src="img/icon.png" alt="MSG Launcher" width="150">
+  <br>
+  🚀 MSG Launcher
+</h1>
 
-![Version](https://img.shields.io/badge/release-v1.0.0-blue)
-![License](https://img.shields.io/badge/license-Apache--2.0-green)
-![Android](https://img.shields.io/badge/Android-9.0+-green)
+<h4 align="center">A high-performance Minecraft Bedrock Edition Launcher for Android.</h4>
 
-**MSG Launcher** — это современный лаунчер для Minecraft Bedrock Edition на Android, созданный на Kotlin для максимальной производительности и удобства.
+<p align="center">
+  <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square">
+  <img src="https://img.shields.io/badge/platform-Android_9.0+-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/language-Kotlin-purple?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#getting-started">Getting Started</a>
+</p>
 
 ---
 
-## 📸 Галерея / Screenshots
-*Здесь игроки увидят, как выглядит твой лаунчер в деле.*
+## 💡 About
+**MSG Launcher** is a modern, high-performance launcher for Minecraft Bedrock Edition on Android. Built with **Kotlin**, it focuses on speed, stability, and a seamless user experience for managing your Minecraft environment.
 
+---
+
+## 🚀 Key Features
+* **Firebase Integration:** Real-time data storage and seamless sync.
+* **Built-in Marketplace:** Easily browse, download, and install add-ons.
+* **Logcat Overlay:** Built-in debugging tools for developers and power users.
+* **Optimized Performance:** Minimal memory footprint and fast startup times.
+
+---
+
+## 📸 Screenshots
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td><img src="img/main.png" width="200" alt="Главный экран"></td>
-      <td><img src="img/shop.png" width="200" alt="Маркетплейс"></td>
+      <td align="center"><img src="img/main.png" width="220" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
+      <td align="center"><img src="img/shop.png" width="220" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></td>
     </tr>
     <tr>
-      <td align="center"><b>Главный экран</b></td>
-      <td align="center"><b>Маркетплейс</b></td>
+      <td align="center"><b>Dashboard</b></td>
+      <td align="center"><b>Marketplace</b></td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🛠 Ключевые возможности
-* **Интеграция с Firebase:** Стабильное хранение данных и быстрая синхронизация.
-* **Встроенный Marketplace:** Удобный поиск и автоматическая установка дополнений.
-* **Logcat оверлей:** Инструменты для отладки прямо в приложении.
+## 📥 Getting Started
 
-## 📥 Как начать использовать
-1. Скачай актуальную версию в разделе [Releases](https://github.com/ТВОЙ_НИК/msg-launcher/releases).
-2. Установи APK-файл на свое устройство Android (версии 9.0 и выше).
-3. При первом запуске следуй инструкциям на экране для настройки интеграции с Minecraft.
+### Prerequisites
+* Android 9.0 or higher.
+* Installed Minecraft Bedrock Edition.
+
+### Installation
+1. Navigate to the [Releases](https://github.com/Stevesjsjsjs871/msg-launcher/releases) page.
+2. Download the latest `.apk` file.
+3. Install and follow the on-screen setup instructions to integrate with your Minecraft installation.
 
 ---
-*Проект находится в стадии активной разработки. Будем рады любым предложениям по улучшению!*
+
+<div align="center">
+  <h3>Built with ❤️ by Stevesjsjsjs871</h3>
+  <p><i>Active development: Feel free to submit an issue or a pull request!</i></p>
+</div>
