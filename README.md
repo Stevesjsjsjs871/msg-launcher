@@ -1,34 +1,49 @@
-<h1 align="center">
-  <br>
-  <img src="img/icon.png" alt="MSG Launcher" width="150">
-  <br>
-  🚀 MSG Launcher
-</h1>
+# MSG Launcher
 
-<h4 align="center">A high-performance Minecraft Bedrock Edition Launcher for Android.</h4>
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)]()
+[![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat)]()
+[![Platform](https://img.shields.io/badge/platform-Android_9.0+-orange?style=flat)]()
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square">
-  <img src="https://img.shields.io/badge/platform-Android_9.0+-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/language-Kotlin-purple?style=flat-square">
-</p>
-
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#getting-started">Getting Started</a>
-</p>
+**MSG Launcher** is a specialized launcher for Minecraft Bedrock Edition on Android, engineered with Kotlin to provide enhanced performance and a streamlined user experience.
 
 ---
 
-## 💡 About
-**MSG Launcher** is a modern, high-performance launcher for Minecraft Bedrock Edition on Android. Built with **Kotlin**, it focuses on speed, stability, and a seamless user experience for managing your Minecraft environment.
+## 🛠 Features
+
+*   **Firebase Integration:** Reliable data persistence and cross-device synchronization.
+*   **Integrated Marketplace:** Centralized system for discovering and installing game add-ons.
+*   **Developer Tools:** Built-in Logcat overlay for real-time debugging and monitoring.
+*   **Optimized Architecture:** Focused on reduced memory consumption and accelerated boot times.
 
 ---
 
-## 🚀 Key Features
-* **Firebase Integration:** Real-time data storage and seamless sync.
+## 📸 Interface Preview
+
+| Dashboard | Marketplace |
+| :---: | :---: |
+| ![Dashboard](img/main.png) | ![Marketplace](img/shop.png) |
+
+---
+
+## 📥 Deployment
+
+### Requirements
+*   Android 9.0 or higher.
+*   Minecraft Bedrock Edition installed on the device.
+
+### Installation Steps
+1.  Navigate to the [Releases](https://github.com/Stevesjsjsjs871/msg-launcher/releases) section.
+2.  Download the latest APK release.
+3.  Install the application and follow the configuration wizard for Minecraft integration.
+
+---
+
+## 🤝 Contribution
+Contributions to the project are welcome. Please ensure that all pull requests follow the established coding style and include sufficient documentation.
+
+---
+
+*This project is currently under active development. For inquiries or bug reports, please utilize the Issues tracker.*
 * **Built-in Marketplace:** Easily browse, download, and install add-ons.
 * **Logcat Overlay:** Built-in debugging tools for developers and power users.
 * **Optimized Performance:** Minimal memory footprint and fast startup times.
