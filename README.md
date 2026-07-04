@@ -41,9 +41,27 @@
 
 
 
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; font-weight: bold;">
-    🚀 msg-launcher
-  </span>
-</h1>
-<p align="center">Автоматическая загрузка файлов в GitHub</p>
+<div align="center">
+  <a href="https://github.com/Stevesjsjsjs871/msg-launcher">
+    <button style="
+      background-color: #2ea44f; 
+      color: white; 
+      padding: 15px 30px; 
+      border: none; 
+      border-radius: 8px; 
+      font-size: 16px; 
+      cursor: pointer;
+      animation: pulse 2s infinite;
+    ">
+      Перейти к проекту
+    </button>
+  </a>
+</div>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(46, 164, 79, 0.7); }
+    70% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(46, 164, 79, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(46, 164, 79, 0); }
+  }
+</style>
