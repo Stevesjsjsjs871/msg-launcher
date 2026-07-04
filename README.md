@@ -28,5 +28,3 @@
 
 ## 🛠 Tech Stack / Технологии:
 `Kotlin` • `Java` • `Android SDK` • `Firebase` • `Jetpack Components`
-
-![Описание картинки](https://img.magnific.com/premium-vector/beautiful-landscape-nature-background-images-free-download-freepik-vector_1305309-1586.jpg?semt=ais_hybrid)
