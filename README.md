@@ -50,25 +50,3 @@
 ---
 
 *This project is currently under active development. For inquiries or bug reports, please utilize the Issues tracker.*
-*   **Optimized Architecture:** Focused on reduced memory consumption and accelerated boot times.
-
-## 📸 Interface Preview
-
-| Dashboard | Marketplace |
-| :---: | :---: |
-| ![Dashboard](img/main.png) | ![Marketplace](img/shop.png) |
-
-## 📥 Deployment
-
-### Requirements
-*   Android 9.0 or higher.
-*   Minecraft Bedrock Edition installed on the device.
-
-### Installation Steps
-1.  Navigate to the [Releases](https://github.com/Stevesjsjsjs871/msg-launcher/releases) section.
-2.  Download the latest APK release.
-3.  Install the application and follow the configuration wizard for Minecraft integration.
-
----
-
-*This project is currently under active development. For inquiries or bug reports, please utilize the Issues tracker.*
